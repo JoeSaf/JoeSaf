@@ -1,7 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
-🌱 I'm currently learning vuejs and mongodb<br>🔭I'm currently working on my software development skills<br>💬Ask me about anything that isnt about solving errors <br>⚡️ Fun fact “did you know…”
+##  👋
 
 
 ## 🌐 Socials:
