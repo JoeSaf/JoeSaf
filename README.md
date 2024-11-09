@@ -1,4 +1,3 @@
-<p align="right">[![](https://visitcount.itsvg.in/api?id=JoeSaf&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Joe+" />
@@ -35,6 +34,8 @@
 
 ---
 
+  [![](https://visitcount.itsvg.in/api?id=JoeSaf&icon=0&color=0)](https://visitcount.itsvg.in)
+  
   [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/JoeSaf) 
 
   
