@@ -9,7 +9,7 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 Some bits of these codes can be used as tools.
+- 📫 I have embarked on a journey to make my own Arch-distro, wish me luck!
 
 ---
 
